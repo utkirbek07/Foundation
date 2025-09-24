@@ -1,0 +1,10 @@
+1.Supervised ML bu belgilangan data (labeled data) bilan o'qitiladigan ML modeli. va 2turga bolinadi regressionva classification
+2.Data toliq, toza, belgilangan maqsadga mos, kop miqdorda bolishi kk. 
+3.Bu Dataset modelga tayyorlash jarayoni. Missing values ni toldirish, encoding scaling va boshqa xatoliklarni to'g'rilashni o'z ichiga oladi
+4.Mean (o'rtacha) — bu hamma qiymatlarning yig'indisini soniga bo'lish. Mode (moda) — bu eng ko'p takrorlangan qiymat.
+5.Regression sonli qiymatlarni bashorat qiladi (masalan, uy narxi). Classification esa kategoriyalarga ajratadi (masalan, spam yoki spam emas).
+Mean, Median yoki Mode bilan to'ldirish. Fixed qiymat bilan ham toldirsa boladi
+6.Eng muhimi bu Data. Data bo'lmasa model ishlamaydi. 
+7.Ma'lumotlarni tartiblab, o'rtada turgan qiymatni topadi va osha malumot bilan missing values ni toldiradi
+
+
